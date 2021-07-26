@@ -1,0 +1,52 @@
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 100px;
+}
+
+a {
+    color: gray; 
+}
+
+#imsearch {
+    width: 300px;
+    margin: 0 auto;
+    
+}
+#insearch {
+    width: 300px;
+    margin: 0 auto;
+    
+}
+
+#lucky:hover {
+text-transform: unset;
+}
+
+td {
+    padding: 2px;
+    text-align:center
+}
+
+h2 {
+    color: red;  
+    text-align: left;
+}
+
+h3 {
+    color: black;
+    text-align: left;
+}
+
+button {
+    background-color:royalblue;
+    color: white;
+    border-color: white;
+    
+}
+
+#advsearch {
+    text-align: left;
+    height: 50px;
+}
+
